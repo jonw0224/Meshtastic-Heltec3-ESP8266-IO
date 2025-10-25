@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "heltec_htit-wb32")(type "KiCad")(uri "${KIPRJMOD}/heltec_htit-wb32-main/heltec_htit-wb32.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_LORA_V2.0")(type "KiCad")(uri "${KIPRJMOD}/ESP32_LORA_V2.0/ESP32_LORA_V2.0.kicad_sym")(options "")(descr ""))
+)
